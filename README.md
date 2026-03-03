@@ -1,4 +1,4 @@
-# City085 Monitor Beta 🏙
+# City Monitor Beta 🏙
 
 **Monitor urbano de Fortaleza** — Termômetro digital da cidade.
 
@@ -113,3 +113,4 @@ Apontar o virtual host / proxy para `backend/index.php`.
 ## Licença
 
 Projeto pessoal de portfólio — [@mikaeldmts](https://github.com/mikaeldmts)
+
